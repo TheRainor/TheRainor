@@ -35,7 +35,7 @@ A comprehensive, end-to-end task ecosystem deployed seamlessly across Web, Deskt
 * **Cross-Platform Delivery:** React Native, Expo 53, Electron 37
 * **Real-Time & Media:** LiveKit WebRTC, Socket.io
 * **Backend Frameworks & ORMs:** Express 5, Prisma ORM
-* **Databases & Tasks:** PostgreSQL, MySQL, Node-Cron Task Scheduling## Hi there 👋
+* **Databases & Tasks:** PostgreSQL, MySQL, Node-Cron Task Scheduling
 
 <!--
 **TheRainor/TheRainor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
